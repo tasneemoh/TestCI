@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ylHTVB3Rf8evuNuSxgj4yrTUQxeTNAXrHVh5Da30c6cbAMTcKVTdgQRnEGPqv67sXiv/Zv1VbBXcIekBek3n1g==",
+  "dgSpecHash": "JzEvf2zgisuiAw8PgEXvMzgEG9cUhJV4swvHhH9VI7/DJqGrTRIsLkgiseXN8H1frWYT5iLbwMkDCz3jIbuNjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\TestCI\\WebApplication3\\WebApplication3.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Source\\Repos\\TestCICD\\WebApplication3\\WebApplication3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
   ],
